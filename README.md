@@ -1,3 +1,3 @@
 # Projects
-These all are my projects
+These all are my projects<br>
 Author-Hrushikesh Kulkarni
